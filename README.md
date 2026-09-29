@@ -40,3 +40,4 @@ Sistema operacional: compatível com Windows e sistemas Unix-like, considerando 
 
 Informações do desenvolvimento:
 Universidade: Universidade Federal Rural de Pernambuco – UFRPE
+Aluno: Fábio Ferreira Guimarães
