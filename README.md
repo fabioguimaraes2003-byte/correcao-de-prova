@@ -38,3 +38,5 @@ Compilador/ambiente informado no código: Dev-C++;
 Controle de versão: Git/GitHub;
 Sistema operacional: compatível com Windows e sistemas Unix-like, considerando o comando utilizado para limpeza da tela.
 
+Informações do desenvolvimento:
+Universidade: Universidade Federal Rural de Pernambuco – UFRPE
