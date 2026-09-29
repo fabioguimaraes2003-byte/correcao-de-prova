@@ -41,3 +41,13 @@ Sistema operacional: compatível com Windows e sistemas Unix-like, considerando 
 Informações do desenvolvimento:
 Universidade: Universidade Federal Rural de Pernambuco – UFRPE
 Aluno: Fábio Ferreira Guimarães
+
+O que será modificado:
+
+Será modificada a funcionalidade responsável pelo cadastro do nome dos alunos.
+
+Atualmente, o código utiliza:
+
+scanf(" %[^\n]", turma[*qtdAlunos].nome);
+
+A alteração pode ser realizada para tornar o cadastro do nome mais seguro, limitando a quantidade de caracteres lidos e evitando possíveis problemas de preenchimento do vetor nome.
